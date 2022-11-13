@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajijoyo&layout=compact)](https://github.com/ajijoyo)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajijoyo&repo=AJMessage)](https://github.com/ajijoyo)
+
 
 <!--
 **ajijoyo/ajijoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
